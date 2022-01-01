@@ -5,7 +5,6 @@ I'm a software developer from India with 5+ years of experience in web developme
 ## What I do!
 
 🔭 I'm currently working at [Paytm Insider](https://insider.in/online)<br />
-✨ Interested in all things backend<br />
 
 
 Main Stack
