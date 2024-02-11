@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer from India with 5+ years of experience in web development.
+I'm a software developer from India with 7+ years of experience in web development.
 
 ## What I do!
 
@@ -15,7 +15,6 @@ Main Stack
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=elixir&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 
 
 
